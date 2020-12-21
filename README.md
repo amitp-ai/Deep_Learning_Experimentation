@@ -1,3 +1,3 @@
 ## Deep Learning Experimentation
 
-This repo contains a few different recently published architectures that I have experimented with.
+I am very passionate aboout deep learning. This repo contains a few different architectures (some recently published) that I have experimented with.
